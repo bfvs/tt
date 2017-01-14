@@ -25,9 +25,9 @@ ul.tabbernav
 {
 margin:0;
 padding: 3px 0;
-border-bottom:1px solid #eeeeee;
 font-family: Ubuntu Mono;
 font-size: 12px;
+text-transform: uppercase;
 background: #e6ecf7;
 border-top: 1px solid #eef2f9;
 border-right: 1px solid #dae1f1;
@@ -62,7 +62,7 @@ background:#eef2f9;}
 
 ul.tabbernav li.tabberactive a
 {
-color: #92aad3;
+color: #aabddd;
 }
 
 ul.tabbernav li.tabberactive a:hover
